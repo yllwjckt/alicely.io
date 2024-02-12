@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #212121;
+    color: #abb7b7;
+    font-family: "Playfair Display", serif;
+    margin: 2rem;
+}
+
+p {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    margin-top: 1rem;
+}
+
+a {
+    color: #00b5b5;
+}
